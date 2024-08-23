@@ -3,9 +3,7 @@
 ## This repository showcases my work on designing and simulating Local Area Networks (LANs) using Cisco Packet Tracer. Below are the details of the two projects I completed as part of this exercise.
 
 ## 1. Logical Network Diagram
-Project Overview: 
-This project involves creating a logical network diagram for a Local Area Network (LAN) using Cisco Packet Tracer. The network includes the following components:
-Network Components
+Topology:
    - Router: R01 (Internet Gateway)
    - Unmanaged Switch: S01
    - Managed Switch: S02
@@ -21,6 +19,7 @@ Network Components
 ![image](https://github.com/user-attachments/assets/b7837079-34ee-456b-94fe-8c0e6f394f19)
 
 ## 2. Physical Network Diagram
+Topology:
    - Router: R01 (Internet Gateway)
    - Unmanaged Switch: S01
    - Managed Switch: S02
